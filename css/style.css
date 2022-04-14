@@ -1028,9 +1028,9 @@ label {
 }
 
 .agreement-txt {
-  margin-left: 7px;
+  margin-left: 27px;
   display: flex;
-  justify-content: flex-end;
+  justify-content: center;
   font-weight: 400;
   font-size: 14px;
   line-height: 1.7;
